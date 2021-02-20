@@ -1,3 +1,5 @@
 Public Test{
-
+	public void m3(){
+	System.out.println("M3()");
+	}
 }

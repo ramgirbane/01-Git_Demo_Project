@@ -1,2 +1,8 @@
 public class DateUtils{
+	void m4(){
+	System.out.println("M4()");
+	}
+	void m5(){
+System.out.println("M5()");
+	}
 }
